@@ -32,6 +32,8 @@ ContextMenu_FR = {
 		ContextMenu_PZNS_Wipe_All_Data = "PZNS Effacer toutes les données",
 		ContextMenu_PZNS_PZNS_Debug_WipeData = "PZNS Effacer les données",
 
+		ContextMenu_PZNS_Debug_Stats = "Débogage de toutes les stats des NPC",
+
 		ContextMenu_PZNS_PZNS_Invite = "Inviter PNJ",
 		ContextMenu_PZNS_PZNS_Jobs = "Travail du PNJ",
 		ContextMenu_PZNS_PZNS_NPC_Info = "Info PNJ",
@@ -76,4 +78,3 @@ ContextMenu_FR = {
 		ContextMenu_PZNS_NPCDropItem = "PNJ: Lacher l'objet",
 		ContextMenu_PZNS_NPCUnquipItem = "PNJ: Dé-équiper l'objet"
 }
-

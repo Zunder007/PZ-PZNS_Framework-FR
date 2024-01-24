@@ -1,0 +1,60 @@
+IGUI_FR = {
+
+IGUI_PZNS_Speech_Preset_FriendlyFire_01 = "MAIS PUTAIN SUR QUOI TU TIRE ?",
+IGUI_PZNS_Speech_Preset_FriendlyFire_02 = "Bon Dieu ! Fais gaffe où tu tire !",
+
+IGUI_PZNS_Speech_Preset_NeutralHit_01 = "Pourquoi tu m'attaque ?",
+IGUI_PZNS_Speech_Preset_NeutralHit_02 = "Bon Dieu ! Arrête de me frapper !",
+
+IGUI_PZNS_Speech_Preset_NeutralRevenge_01 = "J'en ai assez de tes conneries ! Maintenant tu crève !",
+
+IGUI_PZNS_Speech_Preset_HostileHit_01 = "Cette cicatrice fera une bonne histoire...",
+IGUI_PZNS_Speech_Preset_HostileHit_02 = "Aww!",
+IGUI_PZNS_Speech_Preset_HostileHit_03 = "Je commence déjà à le regretter !",
+
+IGUI_PZNS_Speech_Preset_Confirm_01 = "Ouai, peu importe.",
+IGUI_PZNS_Speech_Preset_Confirm_02 = "Je m'y colle",
+IGUI_PZNS_Speech_Preset_Confirm_03 = "Très Bien",
+
+IGUI_PZNS_Speech_Preset_HoldPosition_01 = "Compris, je bouge pas d'ici.",
+IGUI_PZNS_Speech_Preset_HoldPosition_02 = "Je reste là...",
+IGUI_PZNS_Speech_Preset_HoldPosition_03 = "Ah oui... De garde, hein...",
+
+IGUI_PZNS_Speech_Preset_Follow_01 = "Compris, j'te suis",
+IGUI_PZNS_Speech_Preset_Follow_02 = "je couvre tes arrières",
+IGUI_PZNS_Speech_Preset_Follow_03 = "Très bien, ouvre la marche.",
+
+IGUI_PZNS_Speech_Preset_RemoveFromGroup_01 = "Bien, je me casse alors",
+IGUI_PZNS_Speech_Preset_RemoveFromGroup_02 = "Pourquoi moi ?",
+IGUI_PZNS_Speech_Preset_RemoveFromGroup_03 = "Vous regretterez cette décision !",
+
+IGUI_PZNS_Speech_Preset_JobSpeechIdle_01 = "J'ai besoin de faire quelque chose ici...",
+IGUI_PZNS_Speech_Preset_JobSpeechIdle_02 = "Quelle est ma prochaine tâche ?",
+IGUI_PZNS_Speech_Preset_JobSpeechIdle_03 = "C'est une journée de travail pesante...",
+
+IGUI_PZNS_Speech_Preset_NeedWeapon_01 = "Je n'ai pas d'arme !",
+
+IGUI_PZNS_Speech_Preset_CannotAttack_01 = "Aucune autorisation d'attaquer",
+
+IGUI_PZNS_Speech_Preset_NoWorkZone_Undertaker = "Pas de zone de travail pour Fossoyeur...",
+
+IGUI_PZNS_Speech_JillTester_Confirm_01 = "D'ACCORD",
+IGUI_PZNS_Speech_JillTester_Confirm_02 = "J'ai compris",
+IGUI_PZNS_Speech_JillTester_Confirm_03 = "En chemin.",
+
+IGUI_PZNS_Speech_JillTester_HoldPosition_01 = "Compris, je reste là",
+IGUI_PZNS_Speech_JillTester_HoldPosition_02 = "Entendu, tenir la position...",
+IGUI_PZNS_Speech_JillTester_HoldPosition_03 = "Je bouge pas d'ici alors...",
+
+IGUI_PZNS_Speech_JillTester_Follow_01 = "Je suis ton ombre.",
+IGUI_PZNS_Speech_JillTester_Follow_02 = "J'arrive.",
+IGUI_PZNS_Speech_JillTester_Follow_03 = "Je vois le genre.",
+
+IGUI_PZNS_Speech_JillTester_RemoveFromGroup_01 = "T'es sûr ? Fais gaffe à toi.",
+IGUI_PZNS_Speech_JillTester_RemoveFromGroup_02 = "Allons débusquer ces monstres.",
+IGUI_PZNS_Speech_JillTester_RemoveFromGroup_03 = "Ne relâchez pas votre attention.",
+
+IGUI_PZNS_Speech_JillTester_JobSpeechIdle_01 = "Nous perdons notre temps ici...",
+IGUI_PZNS_Speech_JillTester_JobSpeechIdle_02 = "Ne vous attendez pas à ce que je fasse un sandwich...",
+IGUI_PZNS_Speech_JillTester_JobSpeechIdle_03 = "Que dois-je faire ensuite ?...",
+}

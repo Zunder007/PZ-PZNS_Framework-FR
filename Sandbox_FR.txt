@@ -21,4 +21,7 @@ Sandbox_FR = {
 
 	Sandbox_PZNS_Framework_CompanionIdleTicks = "(WIP) Compagnon en pause à Tick",
 	Sandbox_PZNS_Framework_CompanionIdleTicks_tooltip = "(WIP) Définit le compteur de Tick auxquels les PNJ commenceront à être inactif",
+
+	Sandbox_PZNS_Framework_HideNpcNameTags = "Masquer les noms des PNJ",
+	Sandbox_PZNS_Framework_HideNpcNameTags_tooltip = "Cochez pour activer, décochez pour désactiver - les noms des PNJ ne seront pas visibles si cette option est activée",
 }
